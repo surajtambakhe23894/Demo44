@@ -5,6 +5,10 @@ public class Demo1 {
 	{
 		System.out.println(s);
 	}
+	public static void m2()
+	{
+	System.out.println("m2 method---");
+	}
 public static void main(String[] args) {
 	
 	m1("Surajkkjhbjn");
